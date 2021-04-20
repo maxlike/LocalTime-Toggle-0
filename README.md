@@ -3,7 +3,7 @@ This repository are base on instruction of [harmc0re] (http://www.insanelymac.co
 
 
 ####Install
-1. Download [fix_time_osx.sh](https://raw.githubusercontent.com/hieplpvip/LocalTime-Toggle/master/fix_time_osx.sh).
+1. Download [fix_time_osx.sh](https://raw.githubusercontent.com/maxlike/LocalTime-Toggle-0/master/fix_time_osx.sh).
 2. Go to Downloads folder
 3. Run command:
 ```
